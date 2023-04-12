@@ -22,5 +22,6 @@ Some of the popular applications of TensorFlow include:
 
 # [Start Here](https://github.com/DSC-LSU/TensorFlow-Workshop/blob/main/TensorFlow_Workshop.ipynb)
 
-
-![LSU-logo](https://user-images.githubusercontent.com/58085744/231557168-629524f4-3ddf-4c32-ae45-1e7f0e2db1f1.png)
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/58085744/231560200-d7c3e536-4653-4adf-ac3b-294238ede268.png" width="500" height="500">
+</div>
